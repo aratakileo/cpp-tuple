@@ -1,2 +1,2 @@
-# cpp-tuple
+# Tuple
 Tuple for C++
