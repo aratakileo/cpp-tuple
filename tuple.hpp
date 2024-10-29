@@ -1,5 +1,5 @@
-#ifndef _TeaCondemns_TUPLE
-#define _TeaCondemns_TUPLE
+#ifndef _ARATAKILEO_TUPLE
+#define _ARATAKILEO_TUPLE
 
 #include <iostream>
 
